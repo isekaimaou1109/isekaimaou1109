@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Chào bạn nè 👋</h1>
+<p align="center">
+  <img src="https://i.ibb.co/RQM6Bxv/boring.gif" alt="Material Bread logo">
+</p>
 
 <!--
 **isekaimaou1109/isekaimaou1109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
