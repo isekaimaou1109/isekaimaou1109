@@ -1,4 +1,4 @@
-<h1 align="center">Chào bạn nè 👋</h1>
+<h1 align="center">Hallo Leute, ich bin Toni 👋</h1>
 <p align="center">
   <img src="https://i.ibb.co/RQM6Bxv/boring.gif" alt="Material Bread logo">
 </p>
